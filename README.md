@@ -21,3 +21,8 @@
 4. 메모리 관리 전략
 
 ![직군면접-7](https://user-images.githubusercontent.com/96922437/155547208-26d7466e-61e1-4aa3-8c1f-bf2250bfc62a.jpeg)
+
+5. 가상 메모리
+
+![직군면접-8](https://user-images.githubusercontent.com/96922437/155843443-0dac4e1a-2566-4b47-83b9-fb7e36280b7b.jpeg)
+![직군면접-9](https://user-images.githubusercontent.com/96922437/155843446-a0beb06c-5e4c-4d7e-9c8e-f6ab99ce4037.jpeg)
